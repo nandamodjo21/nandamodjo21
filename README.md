@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 📫 WATAFA CHAWCIBEIIII
+- social media:
+- email: jefrandamodjo0405@gmail.com
+- t.me/jeffmodjo
 
 <!---
 nandamodjo21/nandamodjo21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
