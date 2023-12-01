@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 - social media:
 - email: jefrandamodjo0405@gmail.com
-- t.me/jeffmodjo
+- telegram: t.me/jeffmodjo
 
 <!---
 nandamodjo21/nandamodjo21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
